@@ -2,7 +2,7 @@
 
 ## Getting started
 
-Hi there 👋
+Hi there 👋 
 
 ### [I've started a "manual of me"](https://my.manualof.me/s/e291f5b21d24dfd3bb93325223ff781a)
 
@@ -14,9 +14,15 @@ That also explains my love of well crafts user experience (UX) and well designed
 
 Professionalism, Pride and Pragmatism is a great subtitle for a great book (The Software Craftsman) and one I would be happy to use as a subtitle for my career.
 
+#### Written Communication
+
+Async comms have massive value. I could write more on that if you're interested. I strive for mastery of this talent – communicating through writing in such a way that we can all contribute in our own way in our own time. It's not that simple of course but that's the vision.
+
+I grew up on a forum called [Dynamic Drive](http://dynamicdrive.com/). It makes me smile that it's still there (although it's light blue now and used to be green). I think that's one of the first places where I learnt to spend a long time on my messages to other devs.
 
 <!--
-**LL782/ll782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+GitHub wrote:
 
 Here are some ideas to get you started:
 
@@ -28,4 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
