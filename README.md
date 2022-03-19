@@ -58,4 +58,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+My notes:
+
+I'm drawing from three sources of inspiration for this README:
+
+1. A colleague's [profile README](https://github.com/gargath/gargath)
+1. [GitHub's docs ](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) on customizing your profile README
+1. The [manual of me](https://www.manualof.me) concept
 -->
