@@ -1,15 +1,15 @@
 Hi there 👋 thanks for visiting! I don't really know who is reading this and that makes it hard to write. We may or may not know each other – a colleague, a friend, a boss, a recruiter, a potential employer, potentially anyone who stumbles upon any of my public contributions. You are sure to be technically involved – why else would you be looking at a software crafter's profile on a source code management website. Assuming these things, perhaps the best things I can write here would increase the potential for us collaborating effectively. I'll try to present information that would be useful to professional and personal projects alike. 
 
-Most of the basic info you might want has been given a place on this page – [**github.com/LL782**](https://github.com/LL782) (quite possibly you are here already). I can add a bit more detail to who I work for:
+Most of the basic info you might want has been given a place on this page – [**github.com/LL782**](https://github.com/LL782) (quite possibly you are here already). I can add a bit more detail about who I work for:
 
 ## 🏭 
-- 🚗 [**Cazoo**](https://en.wikipedia.org/wiki/Cazoo) – I'm an **individual contributor** on a team building tools for the people doing quality control on the cars
-- 🧡 [**Codurance**](https://www.codurance.com/) – the consultancy I work for. We are **Software Craftspeople** loving **Agile**, **Extreme Programming** and **Lean**
-- 🛕 [**DC5B**](https://www.dc5b.com/) – the organisation I associate my **personal projects** with
+- 🚗 [**Cazoo**](https://en.wikipedia.org/wiki/Cazoo) – I'm an **individual contributor** on a team building and app for doing quality control on the cars before they are delivered
+- 🧐 [**Codurance**](https://www.codurance.com/) – the consultancy I work for. We are **Software Craftspeople** loving **Agile**, **Extreme Programming** and **Lean**
+- 🛕 [**DC5B**](https://www.dc5b.com/) – the nebulous organisation that has a spiritual connection to all my **personal projects**. It's art, egalitarianism and improving reality
 
 ## Getting started
 
-My tips for getting up and running with me
+Tip for getting up and running with me (it's a open-source metaphor)
 
 ### The basics you should know about me are ...
 
@@ -21,9 +21,11 @@ My tips for getting up and running with me
 
 #### Visual metaphor, design school trained and naturally creative
 
-That also explains my love of well crafts user experience (UX) and well designed user interfaces (UI). 
+That also explains my love of well crafted user experience (UX) and well designed user interfaces (UI). 
 
-I could be a frontend specialist – my CSS and HTML skills are pretty 🔥! However, my focus is on quality a.k.a. delivering value to customers. So over the years I've always been fullstack – it's hard to deliver a holistic product otherwise. That said I work well in teams and my love of Agile and Extreme Programming values, principles and practices has given me a decent base upon which to build a wealth of experience within large, medium and small scale organisations.
+I could be a frontend specialist – my CSS and HTML skills are pretty 🔥 However, my focus is on delivering value to customers so I've always worked fullstack – it's hard to deliver holistic quality otherwise. I work well in teams and my love of Agile and Extreme Programming values, principles and practices has given me a decent base upon which to build. These days I have a wealth of experience from large, medium and small scale organisations, in various industries, most often from an e-commerce perspective.
+
+As a hobbyist I draw and paint. I build software related to arts and cartography and I engage socially and creatively in role playing adventure games 🐉 ⚔️ 🪄 etc. 
 
 #### A developer who specialises in writing easy to maintain, human readable code, driven by well-considered tests and design decisions
 
@@ -33,7 +35,7 @@ I could be a frontend specialist – my CSS and HTML skills are pretty 🔥! How
 
 Async comms have massive value. I could write more on that if you're interested. I strive for mastery of this talent – communicating through writing in such a way that we can all contribute in our own way in our own time. It's not that simple of course but that's the vision.
 
-I grew up on a forum called [Dynamic Drive](http://dynamicdrive.com/). It makes me smile that it's still there (although I'm sure the brand colour used to be green back in the day 🤔). I think that's one of the first places where I learnt to spend a long time on my messages to other devs. Trying to articulate the problem that you are feeling blocked by, especially if it is a knowledge gap, is a great practice and I can't recommend it highly enough.
+I cut my teeth on a forum called [Dynamic Drive](http://dynamicdrive.com/) (it makes me smile that it's still there). That's where I learnt that time spent crafting the write messages is worth it.  Trying to articulate the problem that you are feeling blocked by, especially if it is a knowledge gap, is a great practice and I can't recommend it highly enough. Many times I ended up not posting my questions at all because I'm researching the right vocabulary and really explaining the intricacies of what was going on I'd solve my own problems.   
 
 #### Work in progress
 
