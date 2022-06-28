@@ -1,11 +1,13 @@
 Hi there 👋 thanks for visiting!
 
-Most of the basic info you might want has been given a place on this page – [**github.com/LL782**](https://github.com/LL782) (quite possibly you are here already). I can add a bit more detail about who I work for:
+If you're not already at https://github.com/LL782 that's where you can go to get my profile
 
-## 🏭 
-- 🚗 [**Cazoo**](https://en.wikipedia.org/wiki/Cazoo) – I'm an **individual contributor** on a team building and app for doing quality control on the cars before they are delivered
-- 🧐 [**Codurance**](https://www.codurance.com/) – the consultancy I work for. We are **Software Craftspeople** loving **Agile**, **Extreme Programming** and **Lean**
-- 🛕 [**DC5B**](https://www.dc5b.com/) – the nebulous organisation that has a spiritual connection to all my **personal projects**. It's art, egalitarianism and improving reality
+## 🏭 Current work
+🚗 [**Cazoo**](https://github.com/Cazoo-uk) – I'm an **individual contributor** on the Vehicle Quality team. We build an app for road testers, ramp checkers, final quality controllers and operations managers to ensure cars reach customers in the best condition, and on time.
+
+🧐 [**Codurance**](https://www.codurance.com/) are the consultancy I work with. We wrote the book on **Software Craftsmanship** and specialise in **Agile**, **Extreme Programming**, **Lean**, **TDD**, **Simple Design**, **DDD**, **pairing** – all that good stuff 🧡
+
+🛕 [**DC5B**](https://www.dc5b.com/) – the nebulous organisation that has a spiritual connection to all my **personal projects**. It's art, egalitarianism and improving reality. Yeah stuff magical in that direction. 
 
 ## Getting started
 
