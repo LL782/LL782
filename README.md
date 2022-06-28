@@ -1,6 +1,6 @@
 Hi there 👋 thanks for visiting!
 
-If you're not already at https://github.com/LL782 that's where you can go to get my profile
+If you're not already at https://github.com/LL782 that's where you can go to get my profile. My guess is you're here because if we're not already working together we might be in future. I love open source, please feel free to reach out with any questions, suggestions or comments.
 
 ## 🏭 Current work
 🚗 [**Cazoo**](https://github.com/Cazoo-uk) – I'm an **individual contributor** on the Vehicle Quality team. We build an app for road testers, ramp checkers, final quality controllers and operations managers to ensure cars reach customers in the best condition, and on time.
@@ -25,13 +25,13 @@ Tip for getting up and running with me (it's a open-source metaphor)
 
 That also explains my love of well crafted user experience (UX) and well designed user interfaces (UI). 
 
-I could be a frontend specialist – my CSS and HTML skills are pretty 🔥 However, my focus is on delivering value to customers so I've always worked fullstack – it's hard to deliver holistic quality otherwise. I work well in teams and my love of Agile and Extreme Programming values, principles and practices has given me a decent base upon which to build. These days I have a wealth of experience from large, medium and small scale organisations, in various industries, most often from an e-commerce perspective.
+I could be a frontend specialist – my CSS and HTML skills are pretty 🔥 However, my focus is on delivering value to customers so I've always worked fullstack – it's hard to deliver holistic quality otherwise. I work well in teams and my love of Agile and Extreme Programming has given me a decent base upon which to build. These days I have a wealth of experience from large, medium and small scale organisations, in various industries.
 
 As a hobbyist I draw and paint. I build software related to arts and cartography and I engage socially and creatively in role playing adventure games 🐉 ⚔️ 🪄 etc. 
 
-#### A developer who specialises in writing easy to maintain, human readable code, driven by well-considered tests and design decisions
+#### A developer who specialises in writing easy to maintain, human readable code, driven by well-considered tests and thoughtful design
 
-"Professionalism, Pride and Pragmatism" is a great subtitle for a great book ([The Software Craftsman](https://www.codurance.com/publications/the-software-craftsman)) and one I would be happy to use as a subtitle for my career.
+"Professionalism, Pride and Pragmatism" is a great subtitle for a great book ([The Software Craftsman](https://www.codurance.com/publications/the-software-craftsman)) and one I would be happy to use as a subtitle for my career. Since joining Codurance in 2019 I've gone deep into my understanding of agile. How to build valuable software, or how to deliver value to customers, is the question underlying all the work we do and for me it's what binds all forms of best practice software engineering together. That and a love of learning is something I share with all my colleagues.
 
 #### Written Communication
 
