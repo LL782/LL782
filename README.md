@@ -1,4 +1,4 @@
-Hi there 👋 thanks for visiting! I don't really know who is reading this and that makes it hard to write. We may or may not know each other – a colleague, a friend, a boss, a recruiter, a potential employer, potentially anyone who stumbles upon any of my public contributions. You are sure to be technically involved – why else would you be looking at a software crafter's profile on a source code management website. Assuming these things, perhaps the best things I can write here would increase the potential for us collaborating effectively. I'll try to present information that would be useful to professional and personal projects alike. 
+Hi there 👋 thanks for visiting!
 
 Most of the basic info you might want has been given a place on this page – [**github.com/LL782**](https://github.com/LL782) (quite possibly you are here already). I can add a bit more detail about who I work for:
 
