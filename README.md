@@ -1,13 +1,14 @@
-Hi there 👋 thanks for visiting!
+# 👋 Hello 
 
-If you're not already at https://github.com/LL782 that's where you can go to get my profile. My guess is you're here because if we're not already working together we might be in future. I love open source, please feel free to reach out with any questions, suggestions or comments.
+If you're not already at [github.com/LL782](https://github.com/LL782) that's where you can find this profile complimented by metadata and links. 
 
-## 🏭 Current work
-🚗 [**Cazoo**](https://github.com/Cazoo-uk) – I'm an **individual contributor** on the Vehicle Quality team. We build an app for road testers, ramp checkers, final quality controllers and operations managers to ensure cars reach customers in the best condition, and on time.
+My guess is you're here because we either working together or might be in future. Thanks for your interest. 
 
-🧐 [**Codurance**](https://www.codurance.com/) are the consultancy I work with. We wrote the book on **Software Craftsmanship** and specialise in **Agile**, **Extreme Programming**, **Lean**, **TDD**, **Simple Design**, **DDD**, **pairing** – all that good stuff 🧡
+## 🏭 Current projects
 
-🛕 [**DC5B**](https://www.dc5b.com/) – the nebulous organisation that has a spiritual connection to all my **personal projects**. It's art, egalitarianism and improving reality. Yeah stuff magical in that direction. 
+- [**Codurance**](https://www.codurance.com/) an excellent consultancy and my employer. **The Software Craftsman** was written by one of the companies founders and that's what we specialise in – **Agile**, **eXtreme Programming**, **Lean**, **Test Driven Development**, **Simple Design**, **Domanin Driven Design**, **Pair programming** and all that good stuff 🧡
+
+- [**DC5B**](https://www.dc5b.com/) – the nebulous organisation that has a spiritual connection to all my **personal projects**. It's art, egalitarianism and improving reality. Yeah stuff magical in that direction. 
 
 ## Getting started
 
