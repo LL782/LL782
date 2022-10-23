@@ -1,30 +1,21 @@
-# 👋 Hello 
+# Laurence "DC5B" Lord
 
-If you're not already at [github.com/LL782](https://github.com/LL782) that's where you can find this profile complimented by metadata and links. 
+I'm am a creative developer specialising in baby steps and simple design. 
 
-My guess is you're here because we either working together or might be in future. Thanks for your interest. 
+I work at a fantastic consultancy called [**Codurance**](https://www.codurance.com/) and in my spare time I am growing a business called [**DC5B**](https://www.dc5b.com/) that develops ideas into art products through collaboration with our customers. 
 
-## 🏭 Current projects
+<!--
+I've started a "manual of me" (at [my.manualof.me/s/e29...](https://my.manualof.me/s/e291f5b21d24dfd3bb93325223ff781a))
 
-- [**Codurance**](https://www.codurance.com/) an excellent consultancy and my employer. **The Software Craftsman** was written by one of the companies founders and that's what we specialise in – **Agile**, **eXtreme Programming**, **Lean**, **Test Driven Development**, **Simple Design**, **Domanin Driven Design**, **Pair programming** and all that good stuff 🧡
+This document is a user manual for getting the most out of me.
 
-- [**DC5B**](https://www.dc5b.com/) – the nebulous organisation that has a spiritual connection to all my **personal projects**. It's art, egalitarianism and improving reality. Yeah stuff magical in that direction. 
+### Things you should know about me
 
-## Getting started with me
+- Fifteen years making websites
+- London based
+- Visual Communications trained
 
-_So this is an open-source metaphor in case that's not obvious. This document is written a little bit like I'm a computer programme and this is the user manual._
-
-### The basics you should know about me are ...
-
-- Fifteen years making websites. 
-- Based in London. 
-- Studied Visual Communications. 
-- Very comfortable with visual metaphor. 
-- Values carefully designed communication.
-
-#### Visual metaphor, design school trained and naturally creative
-
-That also explains my love of well crafted user experience (UX) and well designed user interfaces (UI). 
+That explains my love of well crafted user experience and well designed user interfaces. 
 
 I could be a frontend specialist – my CSS and HTML skills are pretty 🔥 However, my focus is on delivering value to customers so I've always worked fullstack – it's hard to deliver holistic quality otherwise. I work well in teams and my love of Agile and Extreme Programming has given me a decent base upon which to build. These days I have a wealth of experience from large, medium and small scale organisations, in various industries.
 
@@ -45,30 +36,3 @@ I cut my teeth on a forum called [Dynamic Drive](http://dynamicdrive.com/) (it m
 Isn't everything these days? This is an early draft of my profile README and feedback is always welcome. Anyway, I look forward to working together. One last important point: I ask a lot of questions and encourage anyone working with me to do the same, so...
 
 **Ask me anything**
-
-<!--
-
-I've started a "manual of me" (at [my.manualof.me/s/e29...](https://my.manualof.me/s/e291f5b21d24dfd3bb93325223ff781a))
-
-GitHub wrote:
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-My notes:
-
-I'm drawing from three sources of inspiration for this README:
-
-1. A colleague's [profile README](https://github.com/gargath/gargath)
-1. [GitHub's docs ](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) on customizing your profile README
-1. The [manual of me](https://www.manualof.me) concept
--->
