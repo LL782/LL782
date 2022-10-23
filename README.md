@@ -10,9 +10,9 @@ My guess is you're here because we either working together or might be in future
 
 - [**DC5B**](https://www.dc5b.com/) – the nebulous organisation that has a spiritual connection to all my **personal projects**. It's art, egalitarianism and improving reality. Yeah stuff magical in that direction. 
 
-## Getting started
+## Getting started with me
 
-Tip for getting up and running with me (it's a open-source metaphor)
+_So this is an open-source metaphor in case that's not obvious. This document is written a little bit like I'm a computer programme and this is the user manual._
 
 ### The basics you should know about me are ...
 
