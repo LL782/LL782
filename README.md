@@ -2,7 +2,7 @@
 
 I'm am a creative developer specialising in baby steps and simple design. 
 
-I work at a fantastic consultancy called [**Codurance**](https://www.codurance.com/) and in my spare time I am growing a business called [**DC5B**](https://www.dc5b.com/) that develops ideas into art products through collaboration with our customers. 
+I work at a fantastic consultancy called [**Codurance**](https://www.codurance.com/) and in my spare time I am developing a business called [**DC5B**](https://www.dc5b.com/) – currently making art objects and gifts. 
 
 <!--
 I've started a "manual of me" (at [my.manualof.me/s/e29...](https://my.manualof.me/s/e291f5b21d24dfd3bb93325223ff781a))
