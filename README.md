@@ -12,8 +12,8 @@ I work with teams and individuals
 I gather feedback early and often
 I test with users to improve products
 I develop software solutions
-I create art
-I make money when I sell it
+I create art, and 
+I trade
 ```
 
 ### Who am I?
