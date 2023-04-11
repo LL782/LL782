@@ -1,6 +1,6 @@
 # Laurence "DC5B" Lord
 
-A creative developer specialising in simple design and baby step. 
+A software engineer and artist specialising in simple step. 
 
 ### What do I do?
 
