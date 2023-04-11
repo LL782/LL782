@@ -8,10 +8,11 @@ I develop ideas into products through creativity and software craft.
 
 ```
 I come up with ideas rapidly
-I work with teams and individuals
-I gather feedback early and often
-I test with users to improve products
-I develop software solutions
+Work with teams and individuals
+Gather feedback early and often
+Test with users to improve results
+Automate to save time and scale.
+
 I create art, and 
 I trade
 ```
