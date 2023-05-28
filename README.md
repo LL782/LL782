@@ -1,6 +1,6 @@
 # Laurence "DC5B" Lord
 
-A software engineer and artist specialising in simple step. 
+A software engineer and artist specialising in simple steps. 
 
 ### What do I do?
 
