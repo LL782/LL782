@@ -40,4 +40,6 @@ Software-craftsperson
 Artist
 ```
 
-I work as a day job for the crypto security brand [**Ledger**](https://www.ledger.com/) and I work on my pet project [**DC5B**](https://www.dc5b.com/) on the side. Checkout [my projects tab](https://github.com/LL782?tab=projects) and [my personal website](https://www.laurencelord.co.uk/) for more about that.
+I work for crypto security legends [**Ledger**](https://www.ledger.com/) as a frontend ecommerce engineer.
+
+On the side I am building my very own [**DC5B**](https://www.dc5b.com/). Checkout [my projects tab](https://github.com/LL782?tab=projects) and [my personal website](https://www.laurencelord.co.uk/) for more about that.
