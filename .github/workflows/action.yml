@@ -1,4 +1,4 @@
-name: Add new issues to Walking Skeleton project
+name: Add new issues to projects
 
 on:
   issues:
