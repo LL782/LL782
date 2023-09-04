@@ -1,6 +1,6 @@
 ---
 name: General purpose
-description: 'For task tracking and idea capture' 
+about: 'For task tracking and idea capture' 
 assignees: LL782
 
 ---
