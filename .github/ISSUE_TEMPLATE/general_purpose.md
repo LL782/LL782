@@ -1,10 +1,7 @@
 ---
 name: General purpose
-about: 'For task tracking and idea capture'
-title: Do a thing
-labels: ''
+description: 'For task tracking and idea capture' 
 assignees: LL782
-milestones: 11
 
 ---
 
