@@ -1,9 +1,10 @@
 ---
-name: Custom Issue
-about: 'General purpose task tracking '
+name: General purpose
+about: 'For task tracking and idea capture'
 title: Do a thing
 labels: ''
 assignees: LL782
+milestone: 'Get data visiblity'
 
 ---
 
