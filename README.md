@@ -1,25 +1,26 @@
 # Laurence "DC5B" Lord
 
-A software engineer and artist specialist in solving complex issues via simple steps
+A software craftsman and artist specialist in solving complex issues via simple steps
 
 ### What do I do?
 
 I develop ideas into products through careful craft.
 
 ```
-I come up with ideas rapidly
-Work with teams and individuals
+Generate ideas rapidly
+Work with teams, individuals and self
 Gather feedback early and often
-Test with end-users to improve results
-Automate to save time and scale-up
+Test with real people to improve 
+Automate to scale-up
 
-I create art, and 
-I trade
+I create art, 
+I talk to AI
+and I trade. 
 ```
 
 ### Who am I?
 
-Hard understand the question and I was the one who asked it
+Hard to understand the question and I was the one who asked it
 
 ![image](https://github.com/user-attachments/assets/a5f74212-40cf-4a14-8a5b-af74f2bd1677)
 
@@ -43,7 +44,7 @@ Software-craftsperson
 Artist
 ```
 
-I work for web3 security legends [**Ledger**](https://www.ledger.com/) as a staff engineer
+I work for digital security legends [**Ledger**](https://www.ledger.com/) as a staff engineer
 
 I also develop my own commercial art brand – [**DC5B**](https://www.dc5b.com/)
 
